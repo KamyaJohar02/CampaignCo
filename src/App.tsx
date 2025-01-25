@@ -38,7 +38,7 @@ function App() {
           </div>
           <div className="hidden md:flex space-x-8">
             <a href="#services" className="text-gray-600 hover:text-indigo-600 transition-colors">Services</a>
-            <a href="#about" className="text-gray-600 hover:text-indigo-600 transition-colors">About</a>
+            {/* <a href="#about" className="text-gray-600 hover:text-indigo-600 transition-colors">About</a> */}
             <a href="#contact" className="text-gray-600 hover:text-indigo-600 transition-colors">Contact</a>
           </div>
         </div>
